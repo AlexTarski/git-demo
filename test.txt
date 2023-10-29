@@ -4,5 +4,9 @@
 
 1011
 121314
+<<<<<<< HEAD
 some content
 +1
+=======
+some content
+>>>>>>> 276b646fd3da9a75c5b94e861b6d62dfe1705d19
